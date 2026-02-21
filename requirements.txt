@@ -1,0 +1,25 @@
+# Biganalytics RAG Chatbot - Essential Requirements
+
+# Core LlamaIndex Framework
+llama-index
+llama-index-core
+llama-index-llms-ollama
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+
+# Web Server
+fastapi
+uvicorn
+
+# LangChain (for prompts and intent classification)
+langchain
+langchain-community
+langchain-core
+
+# Essential Libraries
+python-dotenv
+sentence-transformers
+python-multipart
+
+# Observability
+langsmith
